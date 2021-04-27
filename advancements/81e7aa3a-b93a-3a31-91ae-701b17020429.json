@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2021-04-25 23:00:45 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2021-04-25 21:47:42 -0300"
@@ -380,6 +386,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2021-04-25 17:13:59 -0300",
+      "cooked_beef": "2021-04-27 00:13:46 -0300",
       "melon_slice": "2021-04-25 17:30:27 -0300"
     },
     "done": false
@@ -654,6 +661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2021-04-25 23:41:21 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2021-04-25 20:21:18 -0300"
@@ -816,6 +829,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2021-04-25 23:02:16 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2021-04-25 22:05:01 -0300"
@@ -896,6 +915,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2021-04-26 23:29:26 -0300",
       "minecraft:spider": "2021-04-25 17:48:58 -0300",
       "minecraft:zombie": "2021-04-25 19:10:23 -0300"
     },
@@ -1072,6 +1092,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2021-04-25 17:09:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2021-04-25 23:38:53 -0300"
     },
     "done": true
   },
@@ -1303,6 +1329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2021-04-25 23:02:16 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2021-04-25 17:31:27 -0300"
@@ -1432,6 +1464,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2021-04-25 19:44:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2021-04-25 23:02:16 -0300"
     },
     "done": true
   },
@@ -1687,6 +1725,7 @@
       "minecraft:beach": "2021-04-25 19:33:22 -0300",
       "minecraft:river": "2021-04-25 17:19:37 -0300",
       "minecraft:lukewarm_ocean": "2021-04-25 19:48:54 -0300",
+      "minecraft:snowy_taiga": "2021-04-25 23:25:11 -0300",
       "minecraft:wooded_mountains": "2021-04-25 20:49:43 -0300",
       "minecraft:wooded_hills": "2021-04-25 22:06:56 -0300",
       "minecraft:stone_shore": "2021-04-25 20:49:54 -0300",
@@ -1724,6 +1763,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2021-04-26 23:44:26 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2021-04-25 17:06:50 -0300"
@@ -1745,6 +1790,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2021-04-25 19:03:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2021-04-27 00:15:07 -0300"
     },
     "done": true
   },
